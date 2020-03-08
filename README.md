@@ -39,16 +39,16 @@
    Finally after we have a trained model, we use it to generate rules where accident is more likely to occur.
 <br>
 
-## Results 
+### Results 
 
 <img align="left" src="/images/Screenshot&#32;from&#32;2020-03-08&#32;12-25-06.png" title="Classifier Results"/>
 <img align="left" src="images/Screenshot&#32;from&#32;2020-03-08&#32;12-25-34.png" title="Ensembling Results"/>
 <img align="left" src="/images/Screenshot&#32;from&#32;2020-03-08&#32;12-26-00.png" title="Optimization Results"/>
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-## Plots
+### Plots
 
-<img align="left" src="images/Screenshot&#32;from&#32;2020-03-08&#32;12-25-19.png" title="Classifier Results"/>
-<img align="left" src="images/Screenshot&#32;from&#32;2020-03-08&#32;12-25-46.png" title="Ensembling Results"/>
-<img align="left" src="images/Screenshot&#32;from&#32;2020-03-08&#32;12-26-10.png" title="Optimization Results"/>
+<img align="left" src="images/Screenshot&#32;from&#32;2020-03-08&#32;12-25-19.png" title="Classifier Barplot"/>
+<img align="left" src="images/Screenshot&#32;from&#32;2020-03-08&#32;12-25-46.png" title="Ensembling Barplot" width=300/>
+<img align="left" src="images/Screenshot&#32;from&#32;2020-03-08&#32;12-26-10.png" title="Optimization Barplot"/>
 <br/><br/><br/><br/><br/>
