@@ -45,3 +45,10 @@
 <img align="left" src="images/Screenshot&#32;from&#32;2020-03-08&#32;12-25-34.png" title="Ensembling Results"/>
 <img align="left" src="/images/Screenshot&#32;from&#32;2020-03-08&#32;12-26-00.png" title="Optimization Results"/>
 <br/><br/><br/><br/><br/>
+
+## Plots
+
+<img align="left" src="images/Screenshot&#32;from&#32;2020-03-08&#32;12-25-19.png" title="Classifier Results"/>
+<img align="left" src="images/Screenshot&#32;from&#32;2020-03-08&#32;12-25-46.png" title="Ensembling Results"/>
+<img align="left" src="images/Screenshot&#32;from&#32;2020-03-08&#32;12-26-10.png" title="Optimization Results"/>
+<br/><br/><br/><br/><br/>
