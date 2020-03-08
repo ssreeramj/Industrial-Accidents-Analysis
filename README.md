@@ -1,3 +1,5 @@
+*Code cannot be shared due to privacy reasons*
+
 # Analysis of accidents that take place in industries
 
  Now-a-days in any industry, occurrence of accidents during the work period are quite often, so they lead to different types of impacts such as equipment property damage, fire, release of toxic gases, injury to workers present at the workplace etc. It has been a challenge to deal with these accidents. In order to overcome these challenges, it is important to find out the reasons behind it and have some early preparation to avoid it. So we analysed the data of accidents of a particular factory, used various machine learning algorithms and optimization techniques, to generate rules for the cause for the accidents. The procedure followed can be seen the image.
