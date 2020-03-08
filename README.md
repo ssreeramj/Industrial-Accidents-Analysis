@@ -14,25 +14,25 @@
 
 2. #### Classification
    After preprocessing step, we pass the data into machine learning models, which were implemented using Scikit-Learn library. The models used can be seen in the flowchart.<br>
-  * [Logistic Regression]()
-  * [Decision Tree Classifier]()
-  * [Support Vector Classifier]()
-  * [K-Nearest Neighbors]()
+  * [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
+  * [Decision Tree Classifier](https://www.sciencedirect.com/topics/computer-science/decision-tree-classifier)
+  * [Support Vector Classifier](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
+  * [K-Nearest Neighbors](https://www.saedsayad.com/k_nearest_neighbors.htm)
   
 
 3. #### Ensembling
    Ensembling is the process of combining multiple classifiers together. This gives us better accuracy.<br>
-* [Random Forest Classifier]()
-* [Gradient Boosting Classifier]()
-* [AdaBoost]()
-* [Bagging]()
-* [Simple Voting Classifier]()
+* [Random Forest Classifier](https://en.wikipedia.org/wiki/Random_forest)
+* [Gradient Boosting Classifier](https://stackabuse.com/gradient-boosting-classifiers-in-python-with-scikit-learn/)
+* [AdaBoost](https://en.wikipedia.org/wiki/AdaBoost)
+* [Bagging](https://www.geeksforgeeks.org/ml-bagging-classifier/)
+* [Simple Voting Classifier](https://medium.com/@sanchitamangale12/voting-classifier-1be10db6d7a5)
 
 4. #### Optimization
    In order to assign importance to the predictions of models used in a voting classifier we use various optimization techniques.<br>
-* [NSGA-II]()
-* [Simulated Annealing]()
-* [Multi-Objective Differential Evolution]()
+* [NSGA-II](http://www.cleveralgorithms.com/nature-inspired/evolution/nsga.html)
+* [Simulated Annealing](https://www.geeksforgeeks.org/simulated-annealing/)
+* [Multi-Objective Differential Evolution](https://dis.ijs.si/tea/Publications/Robic05Demo.pdf)
    
 
 5. #### Rules
